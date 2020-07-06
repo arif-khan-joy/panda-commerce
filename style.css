@@ -1,0 +1,60 @@
+.orange-bg{
+    background-color: #FEEAE9 ;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color:#FF4790 ;
+}
+.bay-now{
+    padding: 9px 25px;
+    border-radius: 8px;
+    cursor:pointer;
+    color:white;
+    background-color:#FF4790 ;
+    border: none;
+
+}
+.container{
+    margin-bottom: 40px;
+}
+.cat1{
+    background-color: #FF4790;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat2{
+    padding: 10px 30px;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+}
+.cat3{
+    padding: 10px 30px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
+.caragor .img-size{
+    width:100px;
+}
+.shoes{
+    margin-top: 100px;
+}
+.rebok{
+    text-align: center;
+}
+.head{
+    height: 300px;
+}
+.head2{
+    margin-bottom: 10px;
+    
+}
+ .footer{
+    text-align: center;
+    margin:20px 20px;
+}
